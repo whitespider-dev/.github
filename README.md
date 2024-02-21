@@ -1,6 +1,11 @@
-<img src="" alt="WhiteSpider" />
-<img src="" alt="WhiteSpider" />
-<img src="" alt="WhiteSpider" />
+<a href="https://whitespider.dev/" target="_blank" rel="noopener">
+	<img src="https://whitespider.dev/res/logo2.svg" width="16" height="16" alt="WhiteSpider" draggable="false" />
+	<img src="https://whitespider.dev/res/logo2.svg" width="16" height="16" alt="WhiteSpider" draggable="false" />
+	<img src="https://whitespider.dev/res/logo2.svg" width="16" height="16" alt="WhiteSpider" draggable="false" />
+</a><br />
+
+
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -26,4 +31,3 @@
 - <a href="https://www.youtube.com/@whitespider-dev" target="_blank" rel="noopener">YouTube</a>
 
 ## Other
-
